@@ -1,0 +1,1598 @@
+Tiki Copyright
+----------------
+
+The following list attempts to gather the copyright holders for Tiki
+as of version 9.0.
+
+Accounts listed below with commits have contributed source code to CVS or SVN.
+Please note that even more people contributed on various other aspects (documentation,
+bug reporting, testing, etc.)
+
+This is how we implement the Tiki Social Contract.
+http://tiki.org/Social+Contract
+
+List of members of the Community
+As of 2016-01-17, the community has:
+  * 314 members on SourceForge.net,
+  * 314 of those people who made at least one code commit
+
+This list is automatically generated and alphabetically sorted
+from subversion repository by the following script:
+  doc/devtools/release.php
+
+Counting the commits is not as trivial as it may sound. If your number of commits
+seems incorrect, it could be that the script is not detecting them all. This
+has been reported especially for commits early on in the project. Nonetheless,
+the list provides a general idea.
+
+====================================================================
+
+Nickname: adren67
+First Commit: 2008-10-09
+Last Commit: 2009-02-03
+Number of Commits: 7
+
+Nickname: afahlvik
+First Commit: 2004-03-25
+Last Commit: 2004-04-21
+Number of Commits: 6
+
+Nickname: aholmes99
+First Commit: 2015-12-22
+Last Commit: 2015-12-22
+Number of Commits: 2
+
+Nickname: akshi
+First Commit: 2009-12-11
+Last Commit: 2010-02-10
+Number of Commits: 2
+
+Nickname: alain_desilets
+First Commit: 2008-03-11
+Last Commit: 2013-12-12
+Number of Commits: 192
+
+Nickname: alenaernst
+First Commit: 2009-12-10
+Last Commit: 2009-12-10
+Number of Commits: 1
+
+Nickname: alexandrequessy
+First Commit: 2014-04-17
+Last Commit: 2015-04-01
+Number of Commits: 46
+
+Nickname: ameoba32
+First Commit: 2015-12-03
+Last Commit: 2015-12-18
+Number of Commits: 7
+
+Nickname: amette
+First Commit: 2005-05-19
+Last Commit: 2015-09-29
+Number of Commits: 228
+
+Nickname: anbumania
+First Commit: 2015-03-03
+Last Commit: 2015-05-19
+Number of Commits: 20
+
+Nickname: andrew-cl
+First Commit: 2014-08-30
+Last Commit: 2014-08-30
+Number of Commits: 1
+
+Nickname: aneuhaus
+First Commit: 2003-12-03
+Last Commit: 2003-12-03
+Number of Commits: 1
+
+Nickname: ang23
+First Commit: 2004-08-11
+Last Commit: 2008-05-29
+Number of Commits: 23
+
+Nickname: anope
+First Commit: 2004-07-13
+Last Commit: 2005-05-06
+Number of Commits: 5
+
+Nickname: aproulx
+First Commit: 2008-11-07
+Last Commit: 2010-12-07
+Number of Commits: 24
+
+Nickname: arildb
+First Commit: 2011-09-04
+Last Commit: 2015-12-02
+Number of Commits: 1006
+
+Nickname: arion92fr
+First Commit: 2013-03-11
+Last Commit: 2013-03-12
+Number of Commits: 2
+
+Nickname: atooni
+First Commit: 2005-10-21
+Last Commit: 2005-10-21
+Number of Commits: 1
+
+Nickname: aurel42
+First Commit: 2004-03-01
+Last Commit: 2004-03-16
+Number of Commits: 10
+
+Nickname: awcolley
+First Commit: 2003-06-17
+Last Commit: 2003-11-17
+Number of Commits: 27
+
+Nickname: awolfff
+First Commit: 2007-01-21
+Last Commit: 2009-05-12
+Number of Commits: 8
+
+Nickname: axold
+First Commit: 2008-11-19
+Last Commit: 2009-10-10
+Number of Commits: 115
+
+Nickname: axonrg
+First Commit: 2003-05-15
+Last Commit: 2003-06-20
+Number of Commits: 7
+
+Nickname: bajur
+First Commit: 2011-03-15
+Last Commit: 2011-04-07
+Number of Commits: 4
+
+Nickname: bburgaud
+First Commit: 2003-12-15
+Last Commit: 2003-12-17
+Number of Commits: 8
+
+Nickname: bergmann
+First Commit: 2009-10-14
+Last Commit: 2009-10-14
+Number of Commits: 5
+
+Nickname: berryweb
+First Commit: 2004-05-14
+Last Commit: 2004-10-25
+Number of Commits: 4
+
+Nickname: beuc
+First Commit: 2006-05-22
+Last Commit: 2008-08-22
+Number of Commits: 5
+
+Nickname: billsos
+First Commit: 2009-01-15
+Last Commit: 2009-01-18
+Number of Commits: 3
+
+Nickname: bitey
+First Commit: 2008-08-27
+Last Commit: 2008-10-27
+Number of Commits: 7
+
+Nickname: bligneri
+First Commit: 2003-09-14
+Last Commit: 2003-09-27
+Number of Commits: 3
+
+Nickname: bluestrain
+First Commit: 2006-11-19
+Last Commit: 2008-03-26
+Number of Commits: 8
+
+Nickname: brab
+First Commit: 2004-02-10
+Last Commit: 2004-02-10
+Number of Commits: 1
+
+Nickname: brian_moore
+First Commit: 2008-04-16
+Last Commit: 2008-10-18
+Number of Commits: 6
+
+Nickname: broubrou
+First Commit: 2004-08-26
+Last Commit: 2004-08-27
+Number of Commits: 1
+
+Nickname: btodoroff
+First Commit: 2004-01-09
+Last Commit: 2004-02-01
+Number of Commits: 9
+
+Nickname: bubi
+First Commit: 2010-05-19
+Last Commit: 2011-05-16
+Number of Commits: 8
+
+Nickname: c_schmitz
+First Commit: 2008-11-06
+Last Commit: 2013-03-10
+Number of Commits: 4
+
+Nickname: caevermann
+First Commit: 2011-03-07
+Last Commit: 2011-03-07
+Number of Commits: 1
+
+Nickname: campbe13
+First Commit: 2009-02-19
+Last Commit: 2011-04-07
+Number of Commits: 18
+
+Nickname: caustin_ats
+First Commit: 2003-10-21
+Last Commit: 2003-11-05
+Number of Commits: 5
+
+Nickname: ccardinal
+First Commit: 2013-07-14
+Last Commit: 2013-07-14
+Number of Commits: 2
+
+Nickname: cdrwhite
+First Commit: 2010-05-10
+Last Commit: 2012-03-13
+Number of Commits: 50
+
+Nickname: cdx
+First Commit: 2003-10-08
+Last Commit: 2003-11-12
+Number of Commits: 23
+
+Nickname: ch-w
+First Commit: 2013-02-07
+Last Commit: 2013-02-07
+Number of Commits: 2
+
+Nickname: changi67
+First Commit: 2009-04-23
+Last Commit: 2013-12-20
+Number of Commits: 1631
+
+Nickname: chealer
+First Commit: 2003-09-27
+Last Commit: 2015-11-10
+Number of Commits: 1846
+
+Nickname: chibaguy
+First Commit: 2006-02-04
+Last Commit: 2016-01-16
+Number of Commits: 2931
+
+Nickname: chris_holman
+First Commit: 2003-10-08
+Last Commit: 2004-09-06
+Number of Commits: 39
+
+Nickname: chriscramer
+First Commit: 2008-03-04
+Last Commit: 2008-03-04
+Number of Commits: 5
+
+Nickname: citadelrock
+First Commit: 2012-04-24
+Last Commit: 2013-10-23
+Number of Commits: 54
+
+Nickname: coloradoweb
+First Commit: 2004-01-11
+Last Commit: 2004-06-29
+Number of Commits: 9
+
+Nickname: conner_bw
+First Commit: 2009-05-03
+Last Commit: 2009-05-04
+Number of Commits: 2
+
+Nickname: connermo
+First Commit: 2003-07-30
+Last Commit: 2003-08-17
+Number of Commits: 2
+
+Nickname: cr0vax
+First Commit: 2015-05-18
+Last Commit: 2015-05-19
+Number of Commits: 3
+
+Nickname: cyantree
+First Commit: 2004-08-10
+Last Commit: 2004-08-10
+Number of Commits: 1
+
+Nickname: cyberdrek
+First Commit: 2011-02-05
+Last Commit: 2011-02-05
+Number of Commits: 1
+
+Nickname: d0cster
+First Commit: 2012-10-13
+Last Commit: 2012-10-13
+Number of Commits: 1
+
+Nickname: dabright
+First Commit: 2003-11-12
+Last Commit: 2014-03-02
+Number of Commits: 12
+
+Nickname: daevermann
+First Commit: 2011-03-16
+Last Commit: 2011-03-17
+Number of Commits: 2
+
+Nickname: damienmckenna
+First Commit: 2003-03-24
+Last Commit: 2003-04-09
+Number of Commits: 7
+
+Nickname: damosoft
+First Commit: 2003-12-07
+Last Commit: 2006-09-17
+Number of Commits: 401
+
+Nickname: darzee
+First Commit: 2007-01-23
+Last Commit: 2007-01-31
+Number of Commits: 5
+
+Nickname: dcengija
+First Commit: 2003-10-07
+Last Commit: 2004-02-04
+Number of Commits: 6
+
+Nickname: dclem
+First Commit: 2010-11-22
+Last Commit: 2010-11-22
+Number of Commits: 1
+
+Nickname: deragon
+First Commit: 2004-08-27
+Last Commit: 2004-08-27
+Number of Commits: 1
+
+Nickname: dexl_2000
+First Commit: 2009-06-02
+Last Commit: 2009-11-09
+Number of Commits: 23
+
+Nickname: dgdaniels
+First Commit: 2003-08-10
+Last Commit: 2004-06-21
+Number of Commits: 152
+
+Nickname: dheltzel
+First Commit: 2003-07-16
+Last Commit: 2003-12-29
+Number of Commits: 137
+
+Nickname: djnz
+First Commit: 2004-03-02
+Last Commit: 2004-04-02
+Number of Commits: 7
+
+Nickname: djpgm
+First Commit: 2011-04-08
+Last Commit: 2011-04-08
+Number of Commits: 1
+
+Nickname: docekal
+First Commit: 2003-09-03
+Last Commit: 2003-11-22
+Number of Commits: 3
+
+Nickname: drieschner
+First Commit: 2003-07-01
+Last Commit: 2003-07-04
+Number of Commits: 5
+
+Nickname: drsassafras
+First Commit: 2014-04-03
+Last Commit: 2015-11-25
+Number of Commits: 4
+
+Nickname: duebel
+First Commit: 2008-11-15
+Last Commit: 2009-08-27
+Number of Commits: 5
+
+Nickname: durkin10
+First Commit: 2011-10-17
+Last Commit: 2011-10-17
+Number of Commits: 1
+
+Nickname: egma
+First Commit: 2013-10-02
+Last Commit: 2013-10-14
+Number of Commits: 4
+
+Nickname: eliasgonzales
+First Commit: 2014-03-12
+Last Commit: 2014-03-12
+Number of Commits: 1
+
+Nickname: eoyslebo
+First Commit: 2010-01-17
+Last Commit: 2010-01-19
+Number of Commits: 2
+
+Nickname: epolidor
+First Commit: 2002-11-25
+Last Commit: 2003-12-20
+Number of Commits: 12
+
+Nickname: ericisgood
+First Commit: 2008-11-02
+Last Commit: 2008-11-03
+Number of Commits: 1
+
+Nickname: eromneg
+First Commit: 2009-06-07
+Last Commit: 2016-01-16
+Number of Commits: 274
+
+Nickname: estheban
+First Commit: 2015-09-18
+Last Commit: 2015-09-18
+Number of Commits: 2
+
+Nickname: etuate
+First Commit: 2008-05-14
+Last Commit: 2008-09-23
+Number of Commits: 12
+
+Nickname: evanprodromou
+First Commit: 2008-01-05
+Last Commit: 2008-01-06
+Number of Commits: 5
+
+Nickname: fantoms
+First Commit: 2009-04-30
+Last Commit: 2009-04-30
+Number of Commits: 1
+
+Nickname: fareh1abdelhak
+First Commit: 2013-12-05
+Last Commit: 2013-12-06
+Number of Commits: 3
+
+Nickname: fhcorrea
+First Commit: 2004-06-15
+Last Commit: 2004-06-15
+Number of Commits: 1
+
+Nickname: filmil
+First Commit: 2004-03-31
+Last Commit: 2004-05-18
+Number of Commits: 9
+
+Nickname: floh1111
+First Commit: 2009-06-11
+Last Commit: 2009-07-31
+Number of Commits: 19
+
+Nickname: florianlink
+First Commit: 2004-02-16
+Last Commit: 2004-03-03
+Number of Commits: 4
+
+Nickname: fmathias
+First Commit: 2006-09-07
+Last Commit: 2006-09-07
+Number of Commits: 1
+
+Nickname: fmg-sf
+First Commit: 2012-10-12
+Last Commit: 2015-02-24
+Number of Commits: 145
+
+Nickname: fmk_ca
+First Commit: 2007-01-10
+Last Commit: 2007-01-11
+Number of Commits: 1
+
+Nickname: fr_rodo
+First Commit: 2006-11-28
+Last Commit: 2008-06-16
+Number of Commits: 29
+
+Nickname: franck
+First Commit: 2003-08-06
+Last Commit: 2008-11-13
+Number of Commits: 96
+
+Nickname: frank_p
+First Commit: 2007-09-14
+Last Commit: 2010-07-12
+Number of Commits: 32
+
+Nickname: fukuchi
+First Commit: 2003-08-10
+Last Commit: 2003-09-23
+Number of Commits: 7
+
+Nickname: fumphco
+First Commit: 2006-09-27
+Last Commit: 2006-10-28
+Number of Commits: 6
+
+Nickname: funkju
+First Commit: 2015-06-09
+Last Commit: 2015-06-16
+Number of Commits: 4
+
+Nickname: garygriffin
+First Commit: 2007-01-21
+Last Commit: 2007-02-07
+Number of Commits: 2
+
+Nickname: garypp
+First Commit: 2011-07-05
+Last Commit: 2011-07-05
+Number of Commits: 1
+
+Nickname: gaxweb
+First Commit: 2011-10-04
+Last Commit: 2013-03-15
+Number of Commits: 4
+
+Nickname: gezzzan
+First Commit: 2009-05-02
+Last Commit: 2016-01-09
+Number of Commits: 489
+
+Nickname: ggeller
+First Commit: 2003-12-07
+Last Commit: 2005-11-30
+Number of Commits: 161
+
+Nickname: gillesm
+First Commit: 2003-11-04
+Last Commit: 2012-04-19
+Number of Commits: 103
+
+Nickname: gilshwartz
+First Commit: 2002-12-31
+Last Commit: 2003-07-17
+Number of Commits: 49
+
+Nickname: gimpster
+First Commit: 2003-08-04
+Last Commit: 2003-08-06
+Number of Commits: 6
+
+Nickname: giottomx
+First Commit: 2004-07-15
+Last Commit: 2004-08-25
+Number of Commits: 15
+
+Nickname: gmuslera
+First Commit: 2003-10-22
+Last Commit: 2004-10-04
+Number of Commits: 33
+
+Nickname: gongo
+First Commit: 2003-11-09
+Last Commit: 2004-02-04
+Number of Commits: 51
+
+Nickname: gravesweeper
+First Commit: 2004-01-06
+Last Commit: 2004-01-07
+Number of Commits: 5
+
+Nickname: gregmartin
+First Commit: 2006-12-19
+Last Commit: 2012-10-09
+Number of Commits: 19
+
+Nickname: grundsch
+First Commit: 2012-05-25
+Last Commit: 2012-05-25
+Number of Commits: 1
+
+Nickname: gta74
+First Commit: 2011-01-29
+Last Commit: 2012-09-22
+Number of Commits: 122
+
+Nickname: guideweb
+First Commit: 2003-08-24
+Last Commit: 2003-08-25
+Number of Commits: 2
+
+Nickname: guidoscherp
+First Commit: 2007-08-10
+Last Commit: 2007-08-10
+Number of Commits: 4
+
+Nickname: gunnarre
+First Commit: 2004-04-22
+Last Commit: 2004-12-07
+Number of Commits: 7
+
+Nickname: halon
+First Commit: 2004-01-20
+Last Commit: 2004-02-15
+Number of Commits: 27
+
+Nickname: hangerman
+First Commit: 2006-07-31
+Last Commit: 2007-02-01
+Number of Commits: 27
+
+Nickname: hollmeer
+First Commit: 2012-11-01
+Last Commit: 2012-12-01
+Number of Commits: 5
+
+Nickname: hsaelens
+First Commit: 2004-01-28
+Last Commit: 2006-12-13
+Number of Commits: 4
+
+Nickname: ice8878
+First Commit: 2006-03-03
+Last Commit: 2006-03-03
+Number of Commits: 1
+
+Nickname: idou
+First Commit: 2009-12-22
+Last Commit: 2010-06-07
+Number of Commits: 19
+
+Nickname: illori
+First Commit: 2006-09-12
+Last Commit: 2008-03-25
+Number of Commits: 8
+
+Nickname: ingesol
+First Commit: 2003-05-28
+Last Commit: 2003-10-05
+Number of Commits: 6
+
+Nickname: isotopp
+First Commit: 2003-07-25
+Last Commit: 2003-07-25
+Number of Commits: 1
+
+Nickname: jacmoe2
+First Commit: 2009-12-12
+Last Commit: 2010-06-11
+Number of Commits: 17
+
+Nickname: jaw959
+First Commit: 2003-02-15
+Last Commit: 2003-02-16
+Number of Commits: 9
+
+Nickname: jburleyebuilt
+First Commit: 2004-12-02
+Last Commit: 2005-01-05
+Number of Commits: 2
+
+Nickname: jcyrisse
+First Commit: 2010-11-22
+Last Commit: 2010-11-22
+Number of Commits: 1
+
+Nickname: jdrexler
+First Commit: 2006-02-01
+Last Commit: 2006-02-04
+Number of Commits: 4
+
+Nickname: jean-lucnavarro
+First Commit: 2011-06-12
+Last Commit: 2011-11-29
+Number of Commits: 90
+
+Nickname: jenolan1701
+First Commit: 2003-09-02
+Last Commit: 2003-09-07
+Number of Commits: 3
+
+Nickname: jeremy_lee
+First Commit: 2009-02-16
+Last Commit: 2009-02-17
+Number of Commits: 2
+
+Nickname: jjolly
+First Commit: 2004-10-13
+Last Commit: 2004-10-14
+Number of Commits: 1
+
+Nickname: jkring
+First Commit: 2003-10-07
+Last Commit: 2003-10-07
+Number of Commits: 1
+
+Nickname: jmaspons
+First Commit: 2006-06-11
+Last Commit: 2006-10-08
+Number of Commits: 7
+
+Nickname: jobicarter
+First Commit: 2013-11-14
+Last Commit: 2013-12-05
+Number of Commits: 8
+
+Nickname: joeyhartmann
+First Commit: 2005-07-13
+Last Commit: 2005-07-13
+Number of Commits: 1
+
+Nickname: johannesmoser
+First Commit: 2008-11-20
+Last Commit: 2008-11-20
+Number of Commits: 1
+
+Nickname: johndparker
+First Commit: 2012-07-08
+Last Commit: 2012-07-10
+Number of Commits: 2
+
+Nickname: jonnybradley
+First Commit: 2007-08-15
+Last Commit: 2016-01-16
+Number of Commits: 8544
+
+Nickname: jorgercosta
+First Commit: 2004-04-14
+Last Commit: 2004-04-19
+Number of Commits: 13
+
+Nickname: josefgc
+First Commit: 2006-11-20
+Last Commit: 2006-11-20
+Number of Commits: 2
+
+Nickname: jp_eagle
+First Commit: 2014-04-02
+Last Commit: 2014-04-25
+Number of Commits: 5
+
+Nickname: jpgimenez
+First Commit: 2003-08-04
+Last Commit: 2003-08-04
+Number of Commits: 1
+
+Nickname: jreyesg
+First Commit: 2006-01-14
+Last Commit: 2007-03-03
+Number of Commits: 21
+
+Nickname: jshauk
+First Commit: 2014-01-21
+Last Commit: 2014-05-22
+Number of Commits: 21
+
+Nickname: jsocol
+First Commit: 2010-01-22
+Last Commit: 2010-01-23
+Number of Commits: 1
+
+Nickname: juxtagonale
+First Commit: 2013-11-18
+Last Commit: 2013-11-18
+Number of Commits: 2
+
+Nickname: jwigdahl
+First Commit: 2003-08-20
+Last Commit: 2003-10-29
+Number of Commits: 2
+
+Nickname: jyhem
+First Commit: 2006-12-11
+Last Commit: 2016-01-16
+Number of Commits: 1070
+
+Nickname: k2s
+First Commit: 2005-12-18
+Last Commit: 2005-12-20
+Number of Commits: 2
+
+Nickname: karneevor
+First Commit: 2006-02-16
+Last Commit: 2006-02-22
+Number of Commits: 3
+
+Nickname: kerrnel22
+First Commit: 2007-08-30
+Last Commit: 2009-09-12
+Number of Commits: 71
+
+Nickname: killianebel
+First Commit: 2010-12-07
+Last Commit: 2010-12-23
+Number of Commits: 45
+
+Nickname: kissaki
+First Commit: 2009-07-26
+Last Commit: 2009-12-22
+Number of Commits: 44
+
+Nickname: kokohuyb
+First Commit: 2008-03-25
+Last Commit: 2008-04-07
+Number of Commits: 9
+
+Nickname: koobla
+First Commit: 2004-02-08
+Last Commit: 2004-02-20
+Number of Commits: 4
+
+Nickname: koohiisan
+First Commit: 2014-02-13
+Last Commit: 2014-03-13
+Number of Commits: 9
+
+Nickname: kstingel
+First Commit: 2011-07-15
+Last Commit: 2013-04-28
+Number of Commits: 189
+
+Nickname: kwem
+First Commit: 2012-10-05
+Last Commit: 2012-10-18
+Number of Commits: 7
+
+Nickname: laetzer
+First Commit: 2004-01-09
+Last Commit: 2004-01-10
+Number of Commits: 6
+
+Nickname: leagris
+First Commit: 2013-07-24
+Last Commit: 2013-08-08
+Number of Commits: 8
+
+Nickname: lechuckdapirate
+First Commit: 2003-05-02
+Last Commit: 2003-05-12
+Number of Commits: 15
+
+Nickname: leyan
+First Commit: 2008-03-01
+Last Commit: 2008-05-18
+Number of Commits: 8
+
+Nickname: lfagundes
+First Commit: 2004-02-23
+Last Commit: 2006-11-30
+Number of Commits: 159
+
+Nickname: lihaowei2008
+First Commit: 2007-09-09
+Last Commit: 2007-09-11
+Number of Commits: 2
+
+Nickname: lindonb
+First Commit: 2009-05-10
+Last Commit: 2016-01-11
+Number of Commits: 1889
+
+Nickname: lmoss
+First Commit: 2005-12-28
+Last Commit: 2006-11-30
+Number of Commits: 3
+
+Nickname: lphuberdeau
+First Commit: 2004-04-10
+Last Commit: 2015-02-18
+Number of Commits: 4333
+
+Nickname: lrargerich
+First Commit: 2002-10-08
+Last Commit: 2003-11-28
+Number of Commits: 399
+
+Nickname: lrrcenter
+First Commit: 2012-05-16
+Last Commit: 2014-05-28
+Number of Commits: 25
+
+Nickname: luatdo
+First Commit: 2012-11-06
+Last Commit: 2012-11-06
+Number of Commits: 1
+
+Nickname: luciash
+First Commit: 2003-08-05
+Last Commit: 2015-11-23
+Number of Commits: 1377
+
+Nickname: lueders
+First Commit: 2003-08-18
+Last Commit: 2005-03-13
+Number of Commits: 24
+
+Nickname: m_stef
+First Commit: 2008-07-09
+Last Commit: 2010-01-10
+Number of Commits: 23
+
+Nickname: mangapower
+First Commit: 2009-04-16
+Last Commit: 2009-10-08
+Number of Commits: 84
+
+Nickname: manivannans
+First Commit: 2013-10-24
+Last Commit: 2015-05-25
+Number of Commits: 139
+
+Nickname: marc-etienne
+First Commit: 2009-06-11
+Last Commit: 2009-06-11
+Number of Commits: 1
+
+Nickname: marcius
+First Commit: 2003-11-25
+Last Commit: 2003-11-30
+Number of Commits: 4
+
+Nickname: marclaporte
+First Commit: 2003-11-28
+Last Commit: 2014-09-04
+Number of Commits: 1843
+
+Nickname: marcmont
+First Commit: 2006-04-18
+Last Commit: 2006-05-16
+Number of Commits: 8
+
+Nickname: marcoaasilva
+First Commit: 2008-06-18
+Last Commit: 2009-08-15
+Number of Commits: 13
+
+Nickname: markitosaad
+First Commit: 2015-07-28
+Last Commit: 2015-09-03
+Number of Commits: 26
+
+Nickname: markusvk
+First Commit: 2003-11-12
+Last Commit: 2003-12-03
+Number of Commits: 7
+
+Nickname: martincomeau
+First Commit: 2009-06-14
+Last Commit: 2009-06-16
+Number of Commits: 3
+
+Nickname: martinschroeder
+First Commit: 2012-05-18
+Last Commit: 2012-05-18
+Number of Commits: 1
+
+Nickname: mashmorgan
+First Commit: 2005-08-18
+Last Commit: 2005-10-31
+Number of Commits: 7
+
+Nickname: mathchartier
+First Commit: 2015-11-27
+Last Commit: 2015-11-27
+Number of Commits: 1
+
+Nickname: matwho
+First Commit: 2008-08-25
+Last Commit: 2009-05-07
+Number of Commits: 30
+
+Nickname: mbrackeva
+First Commit: 2008-06-22
+Last Commit: 2008-06-22
+Number of Commits: 1
+
+Nickname: mcfarland
+First Commit: 2006-02-04
+Last Commit: 2007-07-21
+Number of Commits: 5
+
+Nickname: melmut
+First Commit: 2004-02-11
+Last Commit: 2004-04-07
+Number of Commits: 6
+
+Nickname: mhausi
+First Commit: 2005-02-08
+Last Commit: 2005-02-25
+Number of Commits: 4
+
+Nickname: michael_davey
+First Commit: 2005-01-31
+Last Commit: 2005-10-12
+Number of Commits: 144
+
+Nickname: mickchamp
+First Commit: 2014-03-12
+Last Commit: 2014-03-12
+Number of Commits: 1
+
+Nickname: mikelcu
+First Commit: 2004-02-12
+Last Commit: 2004-02-12
+Number of Commits: 1
+
+Nickname: mikespub
+First Commit: 2003-09-29
+Last Commit: 2004-09-23
+Number of Commits: 16
+
+Nickname: minger0
+First Commit: 2010-04-30
+Last Commit: 2015-09-24
+Number of Commits: 37
+
+Nickname: mjeanson3
+First Commit: 2012-07-10
+Last Commit: 2012-07-10
+Number of Commits: 1
+
+Nickname: mlinton
+First Commit: 2004-11-26
+Last Commit: 2005-04-13
+Number of Commits: 14
+
+Nickname: mlpvolt
+First Commit: 2008-08-19
+Last Commit: 2008-08-20
+Number of Commits: 2
+
+Nickname: mlustenberg
+First Commit: 2011-07-27
+Last Commit: 2011-10-09
+Number of Commits: 98
+
+Nickname: mose
+First Commit: 2003-06-12
+Last Commit: 2008-03-22
+Number of Commits: 1954
+
+Nickname: mrjc
+First Commit: 2009-05-11
+Last Commit: 2009-05-19
+Number of Commits: 29
+
+Nickname: mroussel
+First Commit: 2013-05-16
+Last Commit: 2013-05-16
+Number of Commits: 1
+
+Nickname: muscote
+First Commit: 2011-07-07
+Last Commit: 2014-09-12
+Number of Commits: 9
+
+Nickname: musus
+First Commit: 2003-12-18
+Last Commit: 2004-02-25
+Number of Commits: 108
+
+Nickname: mystic_ca
+First Commit: 2008-03-02
+Last Commit: 2008-03-02
+Number of Commits: 1
+
+Nickname: nagendra016
+First Commit: 2009-05-05
+Last Commit: 2009-11-03
+Number of Commits: 51
+
+Nickname: nhuffschmid
+First Commit: 2003-06-23
+Last Commit: 2003-12-03
+Number of Commits: 28
+
+Nickname: niclone
+First Commit: 2006-07-24
+Last Commit: 2010-09-02
+Number of Commits: 415
+
+Nickname: nikchankov
+First Commit: 2006-02-06
+Last Commit: 2006-02-08
+Number of Commits: 3
+
+Nickname: nikejam
+First Commit: 2012-11-22
+Last Commit: 2012-11-22
+Number of Commits: 1
+
+Nickname: nikhar
+First Commit: 2013-07-09
+Last Commit: 2013-07-09
+Number of Commits: 1
+
+Nickname: nkoth
+First Commit: 2007-05-17
+Last Commit: 2016-01-17
+Number of Commits: 2061
+
+Nickname: ntavares
+First Commit: 2007-11-08
+Last Commit: 2007-11-26
+Number of Commits: 16
+
+Nickname: nyloth
+First Commit: 2006-11-09
+Last Commit: 2011-07-14
+Number of Commits: 1929
+
+Nickname: obnoxxx
+First Commit: 2008-11-05
+Last Commit: 2009-09-26
+Number of Commits: 16
+
+Nickname: oeversetten
+First Commit: 2011-09-09
+Last Commit: 2011-10-21
+Number of Commits: 66
+
+Nickname: ohertel
+First Commit: 2003-03-16
+Last Commit: 2013-06-14
+Number of Commits: 395
+
+Nickname: omstefanov
+First Commit: 2009-07-04
+Last Commit: 2013-11-14
+Number of Commits: 14
+
+Nickname: papercrane
+First Commit: 2005-05-18
+Last Commit: 2005-06-27
+Number of Commits: 58
+
+Nickname: parkercroft
+First Commit: 2007-09-02
+Last Commit: 2007-09-02
+Number of Commits: 1
+
+Nickname: pascalstjean
+First Commit: 2009-11-05
+Last Commit: 2013-08-20
+Number of Commits: 118
+
+Nickname: patrick-proulx
+First Commit: 2013-07-14
+Last Commit: 2016-01-08
+Number of Commits: 140
+
+Nickname: patrickallard
+First Commit: 2009-01-26
+Last Commit: 2009-04-23
+Number of Commits: 3
+
+Nickname: patvdv
+First Commit: 2003-06-09
+Last Commit: 2004-05-14
+Number of Commits: 4
+
+Nickname: paulgv
+First Commit: 2014-05-23
+Last Commit: 2014-09-04
+Number of Commits: 33
+
+Nickname: philippeback
+First Commit: 2008-09-30
+Last Commit: 2010-12-07
+Number of Commits: 7
+
+Nickname: philwhipps
+First Commit: 2006-05-22
+Last Commit: 2006-05-22
+Number of Commits: 2
+
+Nickname: pingus
+First Commit: 2009-03-27
+Last Commit: 2010-01-23
+Number of Commits: 48
+
+Nickname: pippone
+First Commit: 2003-05-02
+Last Commit: 2003-05-13
+Number of Commits: 2
+
+Nickname: pjollans
+First Commit: 2009-02-08
+Last Commit: 2009-02-08
+Number of Commits: 1
+
+Nickname: pkdille
+First Commit: 2007-03-14
+Last Commit: 2013-07-04
+Number of Commits: 1911
+
+Nickname: pmichelazzo
+First Commit: 2004-03-23
+Last Commit: 2004-03-24
+Number of Commits: 1
+
+Nickname: popovich
+First Commit: 2004-06-10
+Last Commit: 2004-06-10
+Number of Commits: 1
+
+Nickname: porsh
+First Commit: 2008-12-24
+Last Commit: 2008-12-24
+Number of Commits: 1
+
+Nickname: ppttrr
+First Commit: 2012-06-30
+Last Commit: 2013-12-14
+Number of Commits: 7
+
+Nickname: princessxine
+First Commit: 2008-08-01
+Last Commit: 2008-08-17
+Number of Commits: 9
+
+Nickname: pyrotknix
+First Commit: 2003-05-08
+Last Commit: 2003-05-08
+Number of Commits: 1
+
+Nickname: qoumaq
+First Commit: 2010-11-19
+Last Commit: 2010-11-26
+Number of Commits: 3
+
+Nickname: rabiddog
+First Commit: 2005-09-18
+Last Commit: 2005-09-20
+Number of Commits: 2
+
+Nickname: redflo
+First Commit: 2003-03-04
+Last Commit: 2014-09-18
+Number of Commits: 345
+
+Nickname: reiknir
+First Commit: 2010-04-03
+Last Commit: 2010-05-24
+Number of Commits: 5
+
+Nickname: ricks99
+First Commit: 2007-07-19
+Last Commit: 2014-03-28
+Number of Commits: 390
+
+Nickname: ripero
+First Commit: 2010-10-02
+Last Commit: 2011-04-04
+Number of Commits: 5
+
+Nickname: rischconsulting
+First Commit: 2006-06-24
+Last Commit: 2013-03-30
+Number of Commits: 34
+
+Nickname: rjsmelo
+First Commit: 2015-10-08
+Last Commit: 2016-01-11
+Number of Commits: 22
+
+Nickname: rleibman
+First Commit: 2005-05-03
+Last Commit: 2005-05-03
+Number of Commits: 3
+
+Nickname: rlopezs
+First Commit: 2009-02-15
+Last Commit: 2009-09-16
+Number of Commits: 29
+
+Nickname: rlpowell
+First Commit: 2003-09-17
+Last Commit: 2010-08-01
+Number of Commits: 194
+
+Nickname: robertplummer
+First Commit: 2010-06-30
+Last Commit: 2015-04-08
+Number of Commits: 1833
+
+Nickname: robferguson
+First Commit: 2008-08-19
+Last Commit: 2009-10-02
+Number of Commits: 10
+
+Nickname: ronsheely
+First Commit: 2012-03-25
+Last Commit: 2012-03-25
+Number of Commits: 1
+
+Nickname: rook1666
+First Commit: 2008-11-05
+Last Commit: 2008-11-21
+Number of Commits: 11
+
+Nickname: rossta
+First Commit: 2002-12-03
+Last Commit: 2004-03-17
+Number of Commits: 132
+
+Nickname: roysinn
+First Commit: 2004-08-13
+Last Commit: 2004-08-13
+Number of Commits: 1
+
+Nickname: russwilde
+First Commit: 2004-05-13
+Last Commit: 2004-05-13
+Number of Commits: 2
+
+Nickname: rv540
+First Commit: 2005-07-20
+Last Commit: 2005-09-02
+Number of Commits: 4
+
+Nickname: sacados1
+First Commit: 2010-12-10
+Last Commit: 2010-12-10
+Number of Commits: 1
+
+Nickname: sacra
+First Commit: 2009-05-21
+Last Commit: 2009-05-27
+Number of Commits: 3
+
+Nickname: sampaioprimo
+First Commit: 2005-10-17
+Last Commit: 2015-12-28
+Number of Commits: 1161
+
+Nickname: sdoh
+First Commit: 2010-08-31
+Last Commit: 2010-09-30
+Number of Commits: 20
+
+Nickname: sept_7
+First Commit: 2007-07-03
+Last Commit: 2013-12-18
+Number of Commits: 1158
+
+Nickname: sewilco
+First Commit: 2008-09-18
+Last Commit: 2009-04-10
+Number of Commits: 47
+
+Nickname: sipherdee
+First Commit: 2013-07-15
+Last Commit: 2013-10-09
+Number of Commits: 3
+
+Nickname: skinut
+First Commit: 2012-11-20
+Last Commit: 2015-02-14
+Number of Commits: 12
+
+Nickname: slordjette
+First Commit: 2009-04-08
+Last Commit: 2010-04-26
+Number of Commits: 2
+
+Nickname: soulhunter
+First Commit: 2009-07-21
+Last Commit: 2009-07-21
+Number of Commits: 2
+
+Nickname: sthibault-php
+First Commit: 2009-05-03
+Last Commit: 2009-05-04
+Number of Commits: 1
+
+Nickname: stojanovim
+First Commit: 2009-01-27
+Last Commit: 2009-10-30
+Number of Commits: 50
+
+Nickname: swillie
+First Commit: 2004-01-30
+Last Commit: 2004-01-30
+Number of Commits: 1
+
+Nickname: sylvain-a
+First Commit: 2014-05-22
+Last Commit: 2014-05-22
+Number of Commits: 1
+
+Nickname: sylvieg
+First Commit: 2003-05-28
+Last Commit: 2013-11-03
+Number of Commits: 7141
+
+Nickname: syracine
+First Commit: 2008-08-17
+Last Commit: 2013-07-22
+Number of Commits: 7
+
+Nickname: techtonik
+First Commit: 2004-02-21
+Last Commit: 2004-03-17
+Number of Commits: 11
+
+Nickname: teedog
+First Commit: 2003-08-07
+Last Commit: 2004-08-18
+Number of Commits: 330
+
+Nickname: telenieko
+First Commit: 2004-04-24
+Last Commit: 2005-01-18
+Number of Commits: 23
+
+Nickname: thierrygervais
+First Commit: 2013-07-14
+Last Commit: 2013-07-14
+Number of Commits: 1
+
+Nickname: thraxisp
+First Commit: 2010-11-12
+Last Commit: 2010-11-12
+Number of Commits: 1
+
+Nickname: tibistibi
+First Commit: 2007-08-06
+Last Commit: 2007-08-07
+Number of Commits: 4
+
+Nickname: tikii18nbot
+First Commit: 2011-06-27
+Last Commit: 2013-09-23
+Number of Commits: 58
+
+Nickname: tna
+First Commit: 2004-07-20
+Last Commit: 2004-07-21
+Number of Commits: 1
+
+Nickname: toggg
+First Commit: 2005-03-23
+Last Commit: 2007-06-16
+Number of Commits: 45
+
+Nickname: tombombadilom
+First Commit: 2003-11-01
+Last Commit: 2008-07-31
+Number of Commits: 110
+
+Nickname: tomjrvs
+First Commit: 2013-12-24
+Last Commit: 2013-12-24
+Number of Commits: 1
+
+Nickname: traivor
+First Commit: 2003-09-09
+Last Commit: 2003-11-13
+Number of Commits: 31
+
+Nickname: trebly
+First Commit: 2010-12-20
+Last Commit: 2012-01-26
+Number of Commits: 41
+
+Nickname: trosen
+First Commit: 2013-10-26
+Last Commit: 2013-10-26
+Number of Commits: 1
+
+Nickname: troworld
+First Commit: 2004-05-08
+Last Commit: 2004-08-03
+Number of Commits: 2
+
+Nickname: uid138927
+First Commit: 2006-12-08
+Last Commit: 2006-12-08
+Number of Commits: 1
+
+Nickname: uiprncss
+First Commit: 2005-03-22
+Last Commit: 2005-03-22
+Number of Commits: 2
+
+Nickname: ursuleacv
+First Commit: 2013-07-14
+Last Commit: 2013-07-15
+Number of Commits: 2
+
+Nickname: uxeric
+First Commit: 2015-08-17
+Last Commit: 2015-09-23
+Number of Commits: 16
+
+Nickname: vulgrin
+First Commit: 2003-12-27
+Last Commit: 2003-12-27
+Number of Commits: 2
+
+Nickname: walper
+First Commit: 2014-11-12
+Last Commit: 2015-05-03
+Number of Commits: 136
+
+Nickname: wesleywillians
+First Commit: 2005-08-20
+Last Commit: 2006-09-06
+Number of Commits: 10
+
+Nickname: wggley
+First Commit: 2009-02-11
+Last Commit: 2009-05-22
+Number of Commits: 11
+
+Nickname: wikiman
+First Commit: 2008-12-21
+Last Commit: 2009-06-30
+Number of Commits: 3
+
+Nickname: wings-of-glory
+First Commit: 2008-09-07
+Last Commit: 2008-09-18
+Number of Commits: 3
+
+Nickname: wolff_borg
+First Commit: 2003-08-07
+Last Commit: 2004-02-24
+Number of Commits: 42
+
+Nickname: xavidp
+First Commit: 2005-07-08
+Last Commit: 2016-01-16
+Number of Commits: 1757
+
+Nickname: xen216
+First Commit: 2011-05-26
+Last Commit: 2012-02-02
+Number of Commits: 29
+
+Nickname: xenfasa
+First Commit: 2003-11-15
+Last Commit: 2003-11-19
+Number of Commits: 4
+
+Nickname: yonixxx
+First Commit: 2008-02-25
+Last Commit: 2015-11-10
+Number of Commits: 162
+
+Nickname: yuzhenxin
+First Commit: 2005-11-21
+Last Commit: 2005-12-05
+Number of Commits: 11
+
+Nickname: zab-sv
+First Commit: 2009-09-29
+Last Commit: 2009-09-29
+Number of Commits: 1
+
+Nickname: zaufi
+First Commit: 2003-06-22
+Last Commit: 2005-04-17
+Number of Commits: 226
+
+Nickname: zcecil
+First Commit: 2003-12-20
+Last Commit: 2004-02-20
+Number of Commits: 4
+
+Nickname: zchermit
+First Commit: 2009-05-27
+Last Commit: 2009-11-06
+Number of Commits: 23
+
+Nickname: zippohontas
+First Commit: 2012-05-18
+Last Commit: 2012-05-18
+Number of Commits: 1
